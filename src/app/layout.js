@@ -1,5 +1,8 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import 'remixicon/fonts/remixicon.css';
+import 'rsuite/dist/rsuite.min.css';
+
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
